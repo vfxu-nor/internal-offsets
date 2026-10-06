@@ -1,3 +1,5 @@
+//version-02c37bc51a384b8f
+
 #pragma once
 
 #include <cstdint>
